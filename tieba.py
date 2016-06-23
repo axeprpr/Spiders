@@ -1,4 +1,7 @@
+
 #-*-coding:utf-8-*-
+__author__='axe.xu xwx213960'
+__date__ ='$2014-9-23 0:22:31$'
 import urllib2
 import re
 import os
